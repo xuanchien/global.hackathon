@@ -1,11 +1,29 @@
-This is our page
+Welcome to our page
 ================
 
-We are NUS Technology team. We are very excited to join this Hackathon and we are going to do our best in this contest. If you are reading this page and you are on another team, be ready to fight to win the prize :)
+We are NUS Technology team. We are very excited to join this Hackathon and we are going to do our best in this contest. If you are reading this page and you are on another team, be ready to fight to win the prize :).
 
+It's not about the money money money, forget about the price tag :)
 
 About our team
 ===========================
+
+Nam Tran-Van
+----
+He is living large and taking charge ;). New challenges are coming everyday and he always works hard and smart to take them down.
+
+Chien Tran-Xuan
+----
+Youngest member of the team, but very passionate about new technologies. He is a “lazy” person so he needs to think smart. He blogs his knowledge at his own site: thelazylog.com. By the way, he is also a good football player.
+
+Duong Doan-Nguyen
+----
+He is a real night owl and he is willing to stay up late to fight. His programming experience allows him to stay alive in a tough battle. Beers and snacks are his favorites
+
+Nhan Nguyen-Minh
+----
+He understands what should be done to make things look better. He has a unique programming practices which many people trying to copy him with no success. He can code all day long without sleeping :)
+
 
 We are a group of young and passionate Web developers in Ho Chi Minh City, Vietnam. We are all interested in developing web application using cutting-edge technologies such as HTML5, CSS3, Twitter Bootstrap. Our main framework for developing application would be in Ruby on Rails as we have been using it daily for several years.
 
@@ -17,4 +35,4 @@ About our skills and what we are going to do?
 
 Our skills: HTML5, CSS3, Javascript, jQuery, BackboneJS, AngularJS, Twitter Boostrap, Ruby on Rails, MySQL, PostgreSQL, MongoDB.
 
-We are thinking of building an application to help the world increase their awareness of issues which our planet is facing today. We could not share more at the moment :).
+In this Hackathon, we are going to build an application which allow users to communicate in real-time easily without worrying about language difference. We create a 3-people chat room where the translator will help two users communicate in their own languages.
