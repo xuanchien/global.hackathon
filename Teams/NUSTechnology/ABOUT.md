@@ -7,6 +7,9 @@ It's not about the money money money, forget about the price tag :)
 
 About our team
 ===========================
+We are a group of young and passionate Web developers in Ho Chi Minh City, Vietnam. We are all interested in developing web application using cutting-edge technologies such as HTML5, CSS3, Twitter Bootstrap. Our main framework for developing application would be in Ruby on Rails as we have been using it daily for several years.
+
+This contest is a great opportunity for us to test our limits and bring our skills to a new level. We also want to show to the world what we can do to help solve problems we are facing each day. It is all about ideas and how to turn those ideas into reality, and we want to be part of it.
 
 Nam Tran-Van
 ----
@@ -24,15 +27,9 @@ Nhan Nguyen-Minh
 ----
 He understands what should be done to make things look better. He has a unique programming practices which many people trying to copy him with no success. He can code all day long without sleeping :)
 
-
-We are a group of young and passionate Web developers in Ho Chi Minh City, Vietnam. We are all interested in developing web application using cutting-edge technologies such as HTML5, CSS3, Twitter Bootstrap. Our main framework for developing application would be in Ruby on Rails as we have been using it daily for several years.
-
-This contest is a great opportunity for us to test our limits and bring our skills to a new level. We also want to show to the world what we can do to help solve problems we are facing each day. It is all about ideas and how to turn those ideas into reality, and we want to be part of it.
-
-
 About our skills and what we are going to do?
 =======
 
 Our skills: HTML5, CSS3, Javascript, jQuery, BackboneJS, AngularJS, Twitter Boostrap, Ruby on Rails, MySQL, PostgreSQL, MongoDB.
 
-In this Hackathon, we are going to build an application which allow users to communicate in real-time easily without worrying about language difference. We create a 3-people chat room where the translator will help two users communicate in their own languages.
+In this Hackathon, we are going to build an application which allow users to communicate in real-time easily without worrying about language difference. We create a 3-people chat room where the translator will help two users communicate using their own languages.
