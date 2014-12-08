@@ -13,10 +13,16 @@ This contest is a great opportunity for us to test our limits and bring our skil
 
 Nam Tran-Van
 ----
+<p align="center">
+  <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10382424_795138520497280_6847702333752617680_o.jpg" />
+</p>
 He is living large and taking charge ;). New challenges are coming everyday and he always works hard and smart to take them down.
 
 Chien Tran-Xuan
 ----
+<p align="center">
+  <img src="https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/247114_10200113520344302_1943814373_n.jpg?oh=01cc8a5cf0092f34fbfb3171bdde0477&oe=54FD80D0" />
+</p>
 Youngest member of the team, but very passionate about new technologies. He is a “lazy” person so he needs to think smart. He blogs his knowledge at his own site: thelazylog.com. By the way, he is also a good football player.
 
 Duong Doan-Nguyen
